@@ -1,0 +1,16 @@
+mapResource = 
+{
+    ["ResKey_Action_234"] = "beacon.ogg",
+    ["ResKey_Action_232"] = "mist_4_3_74.lua",
+    ["ResKey_Action_916"] = "Rat.lua",
+    ["ResKey_Action_238"] = "walkietalkie2.ogg",
+    ["ResKey_Action_233"] = "alert.ogg",
+    ["ResKey_Action_236"] = "radiobeep.ogg",
+    ["ResKey_Action_1057"] = "Roki_Challenge-new.lua",
+    ["ResKey_Action_235"] = "beaconsilent.ogg",
+    ["ResKey_Action_281"] = "Moose.lua",
+    ["ResKey_ImageBriefing_1052"] = "Screen_200418_211245.png",
+    ["ResKey_Action_237"] = "walkietalkie.ogg",
+    ["ResKey_ImageBriefing_692"] = "overview_map.jpg",
+    ["ResKey_Action_980"] = "CTLD_RokiChallenge.lua",
+} -- end of mapResource
